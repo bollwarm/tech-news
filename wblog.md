@@ -47,3 +47,16 @@ CEO生命周期：2019百强CEO，腾讯Pony ma 上榜
 https://hbr.org/2019/11/the-ceo-100-2019-edition#the-ceo-life-cycle
 
 =================
+
+Science论文：麻疹感染可使之前打的疫苗实效：消灭免疫系统对其他疾病
+
+根据Science论文 《Measles virus infection diminishes preexisting antibodies that offer protection from other pathogens》和Science Immunology论文《Incomplete genetic reconstitution of B cell pools contributes to prolonged immunosuppression after measles》
+
+最新研究揭示儿童的麻疹感染可消灭免疫系统对其他疾病（如流感）的记忆。 这回到麻疹恢复后孩子容易感染其他病原体，而这些病原体原本通过疫苗或者感染病毒已经产生了抗体保护。
+
+
+https://www.nature.com/articles/d41586-019-03324-7
+
+https://immunology.sciencemag.org/content/4/41/eaay6125
+
+================
