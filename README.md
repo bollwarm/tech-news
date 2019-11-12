@@ -2,6 +2,21 @@
 
 ## Github
 
+A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps 
+https://github.com/HasnainRaz/Fast-SRGAN
+
+Exposing problems in json parsers of several programming languages. 
+https://github.com/lovasoa/bad_json_parsers
+
+visual6502 remixed
+https://floooh.github.io/visual6502remix/
+
+A Go microservices development framework 
+https://github.com/micro/go-micro
+
+Coloured progress-bar for your Golang CLI 
+https://github.com/alexellis/cli-progress-animation
+
 Venture Dealr
 Visualize and turn the knobs on venture financing concepts such as dilution, option pools, liquidation preferences, down-rounds, and more! 
 https://dlopuch.github.io/venture-dealr/
