@@ -1,4 +1,44 @@
 
+Let's Encrypt论文《Let’s Encrypt: An Automated CertificateAuthority to Encrypt the Entire Web》
+
+Let's Encrypt是一个免费，开放和自动的HTTPS证书颁发机构(CA)，旨在全网推广普及HTTPS。自2015年推出以来，Let's Encrypt已成长为世界上最大的HTTPS CA机构，比所有其他浏览器信任的CA颁发的证书合计还多。。截止2019年10年，
+Let's Encrypt累计为2.23亿个域名颁发了超过5.38亿份证书。本文描述了Let's Encrypt是如何构建的，包括CA软件系统（Boulder）的体系结构和其运维运营体系（ISRG），运营实践经验等。论文中还描述了自设计的IETF标准协议ACME，用来自动执行CA-服务器交互和证书颁发，并对各种生态系统ACME客户进行调查统计。还有广大用户熟识的自动化HTTPS部署签证软件Certbot。最后，通过统计数据，说明了Let's Encrypt
+对Web和CA生态系统的影响。
+
+http://delivery.acm.org/10.1145/3370000/3363192/p2473-aas.pdf?ip=203.86.67.130&id=3363192&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E2DBADA94993EBE7C&__acm__=1573696650_a52e4d02942eada45b3340a0669dfe14
+
+================
+Let's Encrypt论文《Let’s Encrypt: An Automated CertificateAuthority to Encrypt the Entire Web》
+
+Let's Encrypt是一个免费，开放和自动的HTTPS证书颁发机构(CA)，旨在全网推广普及HTTPS。自2015年推出以来，Let's Encrypt已成长为世界上最大的HTTPS CA机构，比所有其他浏览器信任的CA颁发的证书合计还多。。截止2019年10年，
+Let's Encrypt累计为2.23亿个域名颁发了超过5.38亿份证书。本文描述了Let's Encrypt是如何构建的，包括CA软件系统（Boulder）的体系结构和其运维运营体系（ISRG），运营实践经验等。论文中还描述了自设计的IETF标准协议ACME，用来自动执行CA-服务器交互和证书颁发，并对各种生态系统ACME客户进行调查统计。还有广大用户熟识的自动化HTTPS部署签证软件Certbot。最后，通过统计数据，说明了Let's Encrypt
+对Web和CA生态系统的影响。
+
+http://delivery.acm.org/10.1145/3370000/3363192/p2473-aas.pdf?ip=203.86.67.130&id=3363192&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E2DBADA94993EBE7C&__acm__=1573696650_a52e4d02942eada45b3340a0669dfe14
+
+=======================
+Nature论文：《Light-Induced Charge Density Wave in LaTe3》（三碲化镧中的光诱导电荷密度波）
+
+向任何材料添加能量（例如通过加热）几乎总是会破坏其分子间结构规则。例如，具有晶体结构的冰融化成液态水，会破坏分子结构变得无序。
+麻省理工学院和其他地方的物理学家进行的新实验中，发现一种于此相反的现象：当某种材料中的一种称为电荷密度波的图案被快速的激光脉冲撞击时，就会产生一个全新的电荷密度波，这种新产生的波态是一种高度有序的状态，而非预期的无序态。该发现可能有助于揭示各种材料中看不见的特性。实验中使用了一种称为三碲化镧的材料，该材料自然状况下自身形成层状结构。在这种材料中，高密度和低密度区域中的电子呈波状图案自发形成，但仅限于材料内的单个方向。但是，当受到超快的激光脉冲，不到皮秒长（万亿分之一秒）的冲击时，该模式（称为电荷密度波或CDW）将被消除，而新的CDW与原始激光束成直角。。。
+
+http://news.mit.edu/2019/light-orders-exotic-material-1111
+
+https://www.nature.com/articles/s41567-019-0705-3
+
+https://www.researchgate.net/publication/332463073_Light-Induced_Charge_Density_Wave_in_LaTe3
+
+Nature论文：《Light-Induced Charge Density Wave in LaTe3》（三碲化镧中的光诱导电荷密度波）
+
+向任何材料添加能量（例如通过加热）几乎总是会破坏其分子间结构规则。例如，具有晶体结构的冰融化成液态水，会破坏分子结构变得无序。
+麻省理工学院和其他地方的物理学家进行的新实验中，发现一种于此相反的现象：当某种材料中的一种称为电荷密度波的图案被快速的激光脉冲撞击时，就会产生一个全新的电荷密度波，这种新产生的波态是一种高度有序的状态，而非预期的无序态。该发现可能有助于揭示各种材料中看不见的特性。实验中使用了一种称为三碲化镧的材料，该材料自然状况下自身形成层状结构。在这种材料中，高密度和低密度区域中的电子呈波状图案自发形成，但仅限于材料内的单个方向。但是，当受到超快的激光脉冲，不到皮秒长（万亿分之一秒）的冲击时，该模式（称为电荷密度波或CDW）将被消除，而新的CDW与原始激光束成直角。。。
+
+
+https://www.nature.com/articles/s41567-019-0705-3
+
+https://www.researchgate.net/publication/332463073_Light-Induced_Charge_Density_Wave_in_LaTe3
+
+===============
 NIH：小鼠研究解释了大脑如何使疼痛信号加强和减弱的机理
 
 一项针对老鼠的新研究发现了中央杏仁核在提升或降低大脑回路疼痛信号中所起的未知作用。
