@@ -1,4 +1,18 @@
 
+科学家开发出超快充电大容量钾电池
+
+Skoltech研究人员与RAS化学物理问题研究所和乌拉尔联邦大学的科学家合作表明，高容量，高功率的电池可以由不含锂或其他稀有元素的有机材料制成。此外，他们还展示了具有相当稳定新的正极材料，并开发除了高能量密度可快速充电/放电钾基电池。他们的研究结果发表在《材料化学杂志》和《物理化学快报和化学通讯》上。
+
+
+https://phys.org/news/2019-11-scientists-superfast-charging-high-capacity-potassium-batteries.html
+
+https://pubs.rsc.org/en/content/articlelanding/2019/CC/C9CC05745E#!divAbstract
+
+https://phys.org/news/2019-11-high-energy-density-polymeric-cathode-fast-charge-sodium-.html
+
+
+
+============
 Let's Encrypt论文《Let’s Encrypt: An Automated CertificateAuthority to Encrypt the Entire Web》
 
 Let's Encrypt是一个免费，开放和自动的HTTPS证书颁发机构(CA)，旨在全网推广普及HTTPS。自2015年推出以来，Let's Encrypt已成长为世界上最大的HTTPS CA机构，比所有其他浏览器信任的CA颁发的证书合计还多。。截止2019年10年，
