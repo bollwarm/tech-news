@@ -86,6 +86,66 @@ https://github.com/uber-go/guide/blob/master/style.md
 
 CDNJS - the best front-end resource CDN for free!
 https://github.com/cdnjs/cdnjs
+A Fast Deep Learning Model to Upsample Low Resolution Videos to High Resolution at 30fps 
+https://github.com/HasnainRaz/Fast-SRGAN
+
+Exposing problems in json parsers of several programming languages. 
+https://github.com/lovasoa/bad_json_parsers
+
+https://floooh.github.io/visual6502remix/
+
+vulnx 🕷️ is an intelligent bot auto shell injector that detect vulnerabilities in multiple types of cms { `wordpress , joomla , drupal , prestashop .. `} 
+https://github.com/anouarbensaad/vulnx
+
+lotrproxypdf - Create LOTR LCG proxy cards in a PDF
+https://github.com/xdg-go/lotrproxypdf
+https://xdg.me/blog/go-as-glue-json-xml-png-pdf/
+
+UXBOX - The Open-Source prototyping tool https://www.uxbox.io/
+https://github.com/uxbox/uxbox
+
+tracers - Rust instrumentation library
+https://github.com/anelson/tracers
+
+Online OR1K Emulator running Linux http://jor1k.com
+https://github.com/s-macke/jor1k
+
+A Go microservices development framework 
+https://github.com/micro/go-micro
+
+https://github.com/alexellis/cli-progress-animation
+
+https://github.com/acaudwell/Gource
+https://github.com/acaudwell/Logstalgia/
+
+coverage guided fuzz testing for java https://fuzzit.dev
+https://github.com/fuzzitdev/javafuzz
+
+
+https://blog.cloudflare.com/introducing-flan-scan/
+
+Elasticsearch UI components for Vue. Website 
+https://github.com/appbaseio/reactivesearch/tree/dev/packages/vue
+
+A Browser-based Fast LaTeX Visual Editor.https://www.swiftlatex.com/
+https://github.com/SwiftLaTeX/SwiftLaTeX
+
+Samples for GCP Config Connector, a Kubernetes add-on for managing GCP resources
+https://github.com/GoogleCloudPlatform/k8s-config-connector
+
+Natural Language Processing Best Practices & Examples 
+https://github.com/microsoft/nlp-recipes
+
+Set up a modern web app by running one command. 
+https://github.com/facebook/create-react-app
+
+A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated.
+https://github.com/firmai/awesome-google-colab 谷歌GPU计算平台
+
+AWS 宣布推出量子计算服务Amazon Braket
+https://aws.amazon.com/braket
+
+https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/（*）
 
 Uncommon Use Cases For Pseudo Elements
 https://ishadeed.com/article/unusual-use-cases-pseudo-elements/
