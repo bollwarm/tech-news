@@ -1,3 +1,22 @@
+俄罗斯国家断网测试成功，世界最大的私有网络RuNet可以在断开互联网（不访问全球DNS系统和外部互联网）后成功运作。
+
+根据俄罗斯“互联网主权”法，俄罗斯政府可以“国家安全”为由，无理由可断开互联网访问。
+
+https://www.zdnet.com/article/russia-successfully-disconnected-from-the-internet/
+========================
+Awesome圣诞树源码：
+
+function u(t) {
+for(i=c.width|=0;i--;x.fillRect(S(a=i+t)*r+960,i/2,C(a)>0&&C(a)*r/2,19))s=i<1500,r=s?i/3:99,x.fillStyle=`hsl(${s*88} 33%${i%S(i)*77}%`
+
+
+}// 134/140
+
+https://www.dwitter.net/d/11650       
+
+
+
+=============
 为什么你总是失败，而别人却总会成功？关键看如何面对失败处理！
 
 Nature论文：《Quantifying dynamics of failure across science, startups, and security》（《基于科学课题申报、创业和恐怖数据库的失败的动力学机制研究》）
