@@ -1,4 +1,30 @@
 # more
+## 20200115
+
+https://github.com/retejs/rete
+
+https://github.com/cube2222/jql
+
+Koopera is a collaboration app that enables Data Science teams to share and review their jupyter notebooks.
+https://github.com/rsn491/koopera
+
+Reverse proxy for HTTP and STDIO
+https://github.com/openfaas-incubator/of-watchdog
+
+Vusic - Apple Music Web Player
+https://github.com/falcon78/Vusic
+
+A isometric city builder in JavaScript https://victorribeiro.com/isocity
+https://github.com/victorqribeiro/isocity
+
+Open Source conversational Marketing alternative to Intercom, Drift, etc.. https://chaskiq.io
+https://github.com/chaskiq/chaskiq
+
+A Compiler Writing Journey
+https://github.com/DoctorWkt/acwj
+
+
+
 
 ## 0128
 
@@ -49,6 +75,8 @@ https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html
 http://tomvladeck.com/2019/01/20/solving-the-wedding-table-problem-in-prolog/
 
 https://opensource.com/article/19/1/wtf-information-dashboard
+
+
 
 https://aboullaite.me/docker-security-scan/
 
