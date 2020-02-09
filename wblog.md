@@ -1,3 +1,12 @@
+Say Goodbye to CoreOS
+
+CoreOS将于2020年5月26日停止维护。Redhat将采用Fedora CoreOS作为其官方替代，主要区别
+
+Fedora CoreOS，没有Azure，Digital Ocean，GCE，Vagrant等原生支持或Container Linux社区支持。
+CoreOS开发的rkt运行时不再支持。
+
+https://thenewstack.io/say-goodbye-to-coreos/
+================================
 进化上保守的铁硫簇是叶绿体传感器激酶的氧化还原感觉功能的基础
 
 
