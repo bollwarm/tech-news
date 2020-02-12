@@ -1,3 +1,10 @@
+Nature Methods (2020)论文: 《SciPy 1.0: fundamental algorithms for scientific computing in Python.(SciPy 1.0：Python科学计算的基础)》
+
+
+SciPy是Python开源科学计算库。自2001年首次发布以来，SciPy已成为Python的科学算法的事实标准，每年有600多个独特的代码贡献者，数千个依赖它程序包，超过100,000个依赖存储库和数百万次下载。本论文介绍了SciPy 1.0的功能和开发实践的概述，并重点介绍了一些最新的技术发展。
+
+https://www.nature.com/articles/s41592-019-0686-2
+=====================
 Say Goodbye to CoreOS
 
 CoreOS将于2020年5月26日停止维护。Redhat将采用Fedora CoreOS作为其官方替代，主要区别
