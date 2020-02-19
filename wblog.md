@@ -1,3 +1,10 @@
+《The Economics of Maps (地图经济学)》
+
+几个世纪以来，人类在地图中编纂了地理知识。在中世纪，制图是一项重大的且具有经济意义的活动，而新地图是大发现时代使用的主要工具。现在，世界数字地图（例如Google Maps）已经成为数字技术的重要应用之一。数字地图不仅使人们能够访问实时交通和交通信息，而且还支持基于位置的创新，例如拼车应用，房地产门户和本地搜索引擎，并且是具有340-4000亿美元的核心投入的地理空间技术和位置情报行业...
+
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.1.196
+
+===============================
 Nature Methods (2020)论文: 《SciPy 1.0: fundamental algorithms for scientific computing in Python.(SciPy 1.0：Python科学计算的基础)》
 
 
