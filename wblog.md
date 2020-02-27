@@ -1,3 +1,12 @@
+苹果Mac Pro技术白皮书
+
+https://www.apple.com/mac-pro/pdf/Mac_Pro_White_Paper_Feb_2020.pdf
+
+==========================
+网友分享谷歌开发面试经历，主要是在线算法题，三面后最后还是挂了。[允悲]
+
+https://habr.com/en/post/489698/
+==========================================
 //grep.app :Github项目搜索神器，支持对对50万Github仓库全文代码搜索，支持正则表达式！
 
 https://grep.app/
@@ -5,8 +14,8 @@ https://grep.app/
 ============================================
 
 Mozilla基于HTTPs上的DNS（DoH）
+不安全的DNS系统导致的DNS劫持使全世界数十亿人容易受到攻击。2017年，Mozilla开始研究DNS-over-HTTPS（DoH）协议，用来实现网络基础架构中的安全。目前，Firefox在美国默认启用基于HTTPS的加密DNS。Mozilla关于 DoH一些常识：
 
-不安全的DNS系统导致的DNS劫持使全世界数十亿人容易受到攻击。2017年，Mozilla开始研究HTTP-over-HTTPS（DoH）协议，用来实现网络基础架构中的安全。目前，Firefox在美国默认启用基于HTTPS的加密DNS。Mozilla关于 DoH一些常识：
 =========================================
 福利：BHL免费开放15万张自然世界精美插图下载：
 
