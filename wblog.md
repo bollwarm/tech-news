@@ -1,3 +1,7 @@
+旧书插图（Old Book Illustrations）：在线数据库可以下载19世纪和20世纪的数千个插图。插图黄金时代通常可追溯至1880年至20世纪初期。这是书籍和杂志插图史无前例的卓越时期，这时期创作了大量的插图艺术品。在线数据库“Old Book Illustrations”已经对这成千上万个这类插图进行了分类，插图都是取自原始图书内容，并且可以通过艺术家姓名，来源，日期，书名，技术，格式，出版商，主题等进行搜索和浏览。
+
+https://www.oldbookillustrations.com/
+=========================
 苹果Mac Pro技术白皮书
 
 https://www.apple.com/mac-pro/pdf/Mac_Pro_White_Paper_Feb_2020.pdf
