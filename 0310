@@ -1,0 +1,757 @@
+20200219
+
+
+添加里程碑日期来源外键。
+
+https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73
+
+
+
+https://krebsonsecurity.com/2020/02/when-your-used-car-is-a-little-too-mobile/
+
+
+
+https://surfingattack.github.io/
+
+
+Say Goodbye to CoreOS
+
+CoreOS将于2020年5月26日停止维护。Redhat将采用Fedora CoreOS作为其官方替代，主要区别
+
+Fedora CoreOS，没有Azure，Digital Ocean，GCE，Vagrant等原生支持或Container Linux社区支持。
+CoreOS开发的rkt运行时不再支持。
+
+https://thenewstack.io/say-goodbye-to-coreos/
+
+
+
+
+科学家开推10法则（开微也适用），包括以下方面：
+
+Timeline 时间线——关注的人的推文。
+Retweet (RT) 转发——共享最初由其他人的推文。
+Quote-tweet——引用别人的推文，并添加评论。
+Like (♡) 点赞——用于向你看到的推文点赞，这是一种无需回复即可提供反馈的快速方法。没有不喜欢推文的类似功能。。
+Notifications通知——@你的推文以及你的推文的回复，转发和喜欢。
+Mentioning (@)提到——如果你提到某人的相处（“@CaAl的这篇论文很棒”），你的推文将显示在他们的通知中。
+Direct message (DM) 私人消息——私人消息，仅对发件人和专门标识的收件人可见。默认情况下，常规Twitter消息对全世界都是可见的，包括（没有）通过Twitter帐户（包括通过Google之类的搜索引擎）的人。
+Hashtag（#）主题消息——用于通过定义即席关键字，例如有关会议的推文（＃ICA19）或职业演讲的推文（#PhDChat），使查找具有共同主题的推文更加容易。
+List 列表——Twitter用户的列表，可以是公开的（任何人都可以跟随）或私有的。列表可用于追踪有关特定主题的推特帐户，但你不想自己跟踪。
+Hat Tip or Heard Through (HT) 帽子提示或听说来源——用于感谢推文的来源。
+Subtweeting推文——在未明确提及他们的句柄的情况下发布某人的推文，以使他们不会收到你的评论（请参阅“提及”）。
+Live-tweeting在线推文——在活动中发推简短摘要，例如会议演讲。
+Thread主题——关于一个主题的系列推文，例如关于一篇新研究论文的十条推文。
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513
+
+
+Becoming a high performing software developer working from your bedroom
+https://zephony.com/remote-software-developer-productivity
+
+
+世界上最好的IDE，delphi诞生25周岁了：
+
+虽然delphi已经用的人很少了了，但是曾经在Win 32辉煌中天！
+
+25年的Delphi（1995.2 Delphi 95-2020.2）
+
+https://community.idera.com/developer-tools/b/blog/posts/25-years-of-excellence
+
+
+Fast and maintainable patterns for fetching from a database
+https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html
+
+The 2020 State of Remote Work
+https://lp.buffer.com/state-of-remote-work-2020 (***)
+
+
+EtcMailName
+https://wiki.debian.org/EtcMailName
+
+
+AWK As A Major Systems Programming Language — Revisited
+http://www.skeeve.com/awk-sys-prog.html
+
+
+shit == Shell Git
+
+This is an implementation of Git using (almost) entirely POSIX shell.
+https://git.sr.ht/~sircmpwn/shit
+
+
+Scientists discover virus with no recognizable genes
+
+科学家发现没有可识别基因的病毒
+
+病毒是地球上最神秘的生物之一。它们是世界上最小的生命形式之一，而且由于没有宿主就无法生存和繁殖，因此一些科学家质疑它们是否应该被视为生物。现在，科学家发现了一种无法识别的基因，使其成为所有已知病毒中最奇怪的一种。但是，我们真正知道多少种病毒？另一个小组刚刚发现了成千上万种新病毒，它们隐藏在数十种动物的组织中。
+
+研究人员之一贝洛奥里藏特米纳斯吉拉斯州联邦大学的病毒学家JônatasAbrahão说，这些发现说明“我们仍然需要了解多少病毒”。
+
+亚伯拉罕（Abrahão）在搜寻巨型病毒时发现了他。这些微生物（大小与细菌相当）是在2003年的变形虫中首次发现的。在一个当地的人工湖中，他和他的同事们不仅发现了新的巨型病毒，而且发现了一种由于其体积小而与大多数细菌不同的病毒。在变形虫中感染。他们将其命名为Yaravirus。 （根据土著图皮瓜拉尼神话，雅拉是“水之母”。）
+订阅我们的每日新闻
+
+像这样获得更多出色的内容就可以直接发送给您！
+
+雅拉病毒的大小并不是唯一奇怪的事情。该团队在对基因组进行测序时，没有与任何科学家匹配的基因，该小组在bioRxiv预印本服务器上报告。
+
+病毒的新颖性并不令纽约大学的Elodie Ghedin感到惊讶，他在废水和呼吸系统中寻找病毒。她说，污水数据中超过95％的病毒“与[数据库]中的参考基因组不匹配”。她说，就像亚伯拉罕一样，“我们似乎一直都在发现新病毒。”
+
+亚伯拉罕说，雅拉病毒的某些基因看起来像巨型病毒中的基因，但目前尚不清楚两者之间的关系。他和他的同事仍在研究这种新型病毒的生活方式的其他方面。
+
+亚伯拉罕（Abrahão）一次追逐一种病毒时，美国国家癌症研究所病毒学家克里斯托弗·巴克（Christopher Buck）和研究生迈克尔·提萨（Michael Tisza）正在撒网。他们在动物组织中广泛搜索是否使遗传物质围成一圈的病毒。所谓的环状病毒包括乳头瘤病毒，其中一种是人乳头瘤病毒，可引起宫颈癌，另一种通常对人无害。但是巴克有证据表明，后者可能与肾移植患者和其他人的膀胱癌有关。
+
+为了找到这些病毒，研究人员从人类和其他动物的数十种组织样本中分离出病毒颗粒，并筛选了它们的环状基因组。该小组通过寻找一种编码病毒外壳的基因，证实了该DNA属于病毒。这些基因序列通常无法识别，但是Tisza编写了一个计算机程序，该程序预测哪些基因最有可能编码这些壳的独特折叠。
+
+该团队总共发现了大约2500种环形病毒，其中约600种是新发现的。该团队在eLife中报告说，目前尚不清楚这些微生物会对人类健康产生什么影响（如果有的话）。但是巴克说，数据应该允许医生和科学家开始建立这些联系。该方法“是了解数百或数千个病毒基因组分布的重要工具，”Abrahão说。
+
+这项新研究的意义不仅仅在于确定哪些病毒会引起疾病。某些生活在人体中的病毒可能有助于保持我们的健康，而另一些对于帮助循环利用必需养分来保持生态系统的平稳运行至关重要。温哥华不列颠哥伦比亚大学的环境病毒学家Curtis Suttle说：“没有[他们]，我们就无法生存。”他没有参与任何一项研究。 “发现和表征病毒具有巨大的好处。”
+发表于：
+
+    生物学
+
+doi：10.1126 / science.abb2121
+
+https://www.sciencemag.org/news/2020/02/scientists-discover-virus-no-recognizable-genes
+
+
+
+Self-training with Noisy Student improves ImageNet classification
+
+带有噪声学生的自我训练可改善ImageNet分类
+
+We present a simple self-training method that achieves 88.4% top-1 accuracy on ImageNet, which is 2.0% better than the state-of-the-art model that requires 3.5B weakly labeled Instagram images. On robustness test sets, it improves ImageNet-A top-1 accuracy from 61.0% to 83.7%, reduces ImageNet-C mean corruption error from 45.7 to 28.3, and reduces ImageNet-P mean flip rate from 27.8 to 12.2.
+To achieve this result, we first train an EfficientNet model on labeled ImageNet images and use it as a teacher to generate pseudo labels on 300M unlabeled images. We then train a larger EfficientNet as a student model on the combination of labeled and pseudo labeled images. We iterate this process by putting back the student as the teacher. During the generation of the pseudo labels, the teacher is not noised so that the pseudo labels are as accurate as possible. However, during the learning of the student, we inject noise such as dropout, stochastic depth and data augmentation via RandAugment to the student so that the student generalizes better than the teacher
+
+我们提出了一种简单的自我训练方法，该方法可在ImageNet上达到88.4％的top-1准确性，这比要求3.5B弱标记Instagram图像的最新模型高2.0％。在健壮性测试集上，它将ImageNet-A top-1的准确性从61.0％提高到83.7％，将ImageNet-C的平均损坏错误从45.7降低到28.3，并将ImageNet-P的平均翻转率从27.8降低到12.2。
+为了获得此结果，我们首先在标记的ImageNet图像上训练EfficientNet模型，并将其用作教师，以在300M未标记的图像上生成伪标记。然后，我们将更大的EfficientNet训练为带有标记和伪标记图像组合的学生模型。我们通过让学生作为老师来迭代此过程。在伪标签的生成过程中，不会对教师产生干扰，从而使伪标签尽可能准确。但是，在学生学习期间，我们通过RandAugment向学生注入诸如辍学，随机深度和数据增强之类的噪声，从而使学生的普遍性优于老师。
+
+https://arxiv.org/abs/1911.04252
+https://arxiv.org/pdf/1911.04252.pdf
+
+
+所有动画SVG都在哪里？
+https://www.getmotion.io/blog/where-are-all-the-animated-svgs/
+
+
+
+
+Meaningful Availability
+
+
+High availability is a critical requirement for cloud appli-cations: if a sytem does not have high availability, users can-not count on it for their critical work.  Having a metric thatmeaningfully  captures  availability  is  useful  for  both  usersand system developers.   It informs users what they shouldexpect of the availability of the application. It informs devel-opers what they should focus on to improve user-experiencedavailability. This paper presents and evaluates, in the contextof Google’s G Suite, a novel availability metric:  windoweduser-uptime.  This metric has two main components.  First,it directly models user-perceived availability and avoids thebias in commonly used availability metrics.  Second, by si-multaneously calculating the availability metric over manywindows it can readily distinguish between many short peri-ods of unavailability and fewer but longer periods of unavail-ability.
+
+高可用性是云应用程序的关键要求：如果系统没有高可用性，则用户将无法依靠它来完成关键工作。 具有有意义地捕获可用性的指标对于用户和系统开发人员都非常有用。 它告知用户他们对应用程序可用性的期望。 它告知开发人员应该关注哪些方面，以提高用户体验的可用性。 本文在Google G Suite的背景下提出并评估了一种新颖的可用性指标：开窗的用户正常运行时间。 该指标有两个主要组成部分。 首先，它直接对用户感知的可用性进行建模，并避免了常用可用性指标的偏见。 其次，通过同时计算多个窗口上的可用性指标，它可以轻松地区分许多短时间的不可用性和更少但更长的不可用性时段。
+
+https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf
+
+
+Millions of Tiny Databases
+
+Millions of Tiny DatabasesMarc BrookerAmazon Web ServicesTao ChenAmazon Web ServicesFan PingAmazon Web ServicesAbstractStarting in 2013, we set out to build a new database to act asthe configuration store for a high-performance cloud blockstorage system (Amazon EBS).This database needs to be notonly highly available, durable, and scalable but also stronglyconsistent. We quickly realized that the constraints on avail-ability imposed by the  CAP  theorem, and the  realities  ofoperating distributed systems, meant that we didn’t want onedatabase. We wanted millions. Physalia is a transactional key-value store, optimized for use in large-scale cloud controlplanes, which takes advantage of knowledge of transactionpatterns and infrastructure design to offer both high availabil-ity and strong consistency to millions of clients. Physalia usesits knowledge of datacenter topology to place data where it ismost likely to be available. Instead of being highly availablefor all keys to all clients, Physalia focuses on being extremelyavailable for only the keys it knows each client needs, fromthe perspective of that client.This paper describes Physalia in context of Amazon EBS,and some other uses within Amazon Web Services. We be-lieve that the same patterns, and approach to design, are widelyapplicable to distributed systems problems like control planes,configuration management, and service discovery.
+
+https://assets.amazon.science/c4/11/de2606884b63bf4d95190a3c2390/millions-of-tiny-databases.pdf
+
+
+
+《The Economics of Maps (地图经济学)》
+
+几个世纪以来，人类在地图中编纂了地理知识。在中世纪，制图是一项重大的且具有经济意义的活动，而新地图是大发现时代使用的主要工具。现在，世界数字地图（例如Google Maps）已经成为数字技术的重要应用之一。数字地图不仅使人们能够访问实时交通和交通信息，而且还支持基于位置的创新，例如拼车应用，房地产门户和本地搜索引擎，并且是具有340-4000亿美元的核心投入的地理空间技术和位置情报行业...
+
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.1.196
+
+
+福利：BHL免费开放15万张自然世界精美插图下载：
+
+生物多样性遗产图书馆（BHL）开放了其馆藏的与植物，野生动植物和生物多样性有关的图像和文件，收集的插图使用水彩画，石版画和黑墨线条，展示了数百年来观察到的地球野生动植物的多样性。BHL最早的文字可以追溯到1400年代中期，其数字收藏包括1900年代初最新创作的插图。
+
+BHL在线地址：
+
+https://www.biodiversitylibrary.org/
+
+
+
+
+Dream to Control: Learning Behaviors by Latent Imagination
+Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi
+(Submitted on 3 Dec 2019 (v1), last revised 14 Feb 2020 (this version, v2))
+
+    Learned world models summarize an agent's experience to facilitate learning complex behaviors. While learning world models from high-dimensional sensory inputs is becoming feasible through deep learning, there are many potential ways for deriving behaviors from them. We present Dreamer, a reinforcement learning agent that solves long-horizon tasks from images purely by latent imagination. We efficiently learn behaviors by propagating analytic gradients of learned state values back through trajectories imagined in the compact state space of a learned world model. On 20 challenging visual control tasks, Dreamer exceeds existing approaches in data-efficiency, computation time, and final performance. 
+
+控制梦想：通过潜在的想象力学习行为
+Danijar Hafner，Timothy Lillicrap，Jimmy Ba，Mohammad Norouzi
+（于2019年12月3日（v1）提交，最新修订于2020年2月14日（此版本，v2））
+
+     经验丰富的世界模型总结了代理的经验，以促进学习复杂的行为。 虽然通过深度学习从高维感官输入中学习世界模型变得可行，但是有许多潜在的方法可以从中推导行为。 我们介绍了Dreamer，这是一种增强型学习代理，可以完全通过潜在的想象力解决图像中的长时间任务。 我们通过在学习的世界模型的紧凑状态空间中想象的轨迹传播学习状态值的解析梯度来有效地学习行为。 在完成20项具有挑战性的视觉控制任务后，Dreamer在数据效率，计算时间和最终性能方面都超过了现有方法。
+https://arxiv.org/abs/1912.01603
+
+
+allaboutbirds 鸟类百科：关于鸟类的百科知识网站。
+支持对鸟类检索、鸟类在线直播、鸟类课堂（收费和免费的）。
+
+搜索后的鸟页面，包括鸟类的概述、名称（形态，分类），成长历（栖息地、食物、巢穴，行为、动保），（生活和迁徙分布）地图，声音、视频，图像等各种信息。
+
+https://www.allaboutbirds.org/guide/Golden_Eagle/overview
+
+
+
+
+如何有效写作：importance + novelty + correctness + strength
+http://paulgraham.com/useful.html
+
+
+racking Users across the Web via TLS Session Resumption
+
+https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf
+
+A CVE Journey: From Crash to Local Privilege Escalation (*)
+https://iamalsaher.tech/posts/2020-02-08-cve-2019-18634/
+ 
+Learn Authentication The Hard Way: Part One (**)
+https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/
+
+What is OAuth 2.0? The complete guide to OAuth authentication
+https://blog.bearer.sh/understanding-auth-part-1-what-is-oauth/
+
+Bot detection 101: How to detect web bots? (**)
+https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html
+
+
+tacked Borrows: An Aliasing Model for Rust
+
+https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf
+
+
+Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project (*)
+https://www.vidarholen.net/contents/blog/?p=859
+
+A Half Century Ago, Better Transistors and Switching Regulators Revolutionized the Design of Computer Power Supplies
+https://spectrum.ieee.org/computing/hardware/a-half-century-ago-better-transistors-and-switching-regulators-revolutionized-the-design-of-computer-power-supplies
+
+Learning Technical WritingUsing the Engineering Method
+https://www.cs.tufts.edu/~nr/pubs/learn.pdf
+
+Narrowing the Gap Between Serverless and its State withStorage Functions
+无服务器计算由于其细粒度的配置，大规模的多租户和按需扩展而备受关注，但是它也迫使应用程序将远程存储中的状态外部化，从而增加了大量的开销。为了解决此“数据传输问题”，我们构建了Shredder，这是一种低延迟的多租户云存储，它允许在存储节点内直接执行小的计算单元。存储租户为Shredder提供了JavaScript功能（或WebAssembly程序），可以与数据直接交互而无需通过网络移动它们.Shredder的主要挑战是安全隔离数千个常用存储功能，同时最大程度地减少数据交互成本.Shredder使用独特的方法处理数据存储和联网路径均以本机代码实现，以确保性能，而孤立的租户功能使用V8特定的中间表示与数据交互，从而避免了昂贵的跨保护域调用和数据复制。结果，Shredder每秒可以执行400万个远程调用的租户功能，扩展到成千上万的租户中，其响应延迟的中位数和响应时间分别小于50μs和500μs。我们的评估表明，与传统的远程存储相比，Shredder在获取项目之间只有一到三个数据相关性的情况下，可将速度提高14％至78％。我们还展示了Shredder在加速数据密集型应用程序方面的有效性，包括在社交图上显示显示数量级增益的跳跳查询
+
+http://www.cs.utah.edu/~dongx/paper/sandstorm-socc.pdf
+
+
+旧书插图（Old Book Illustrations）：在线数据库可以下载19世纪和20世纪的数千个插图。插图黄金时代通常可追溯至1880年至20世纪初期。这是书籍和杂志插图史无前例的卓越时期，这时期创作了大量的插图艺术品。在线数据库“Old Book Illustrations”已经对这成千上万个这类插图进行了分类，插图都是取自原始图书内容，并且可以通过艺术家姓名，来源，日期，书名，技术，格式，出版商，主题等进行搜索和浏览。
+
+https://www.oldbookillustrations.com/
+
+
+http://www.openculture.com/2020/02/old-book-illustrations-download.html
+
+
+AnyLog: a Grand Unification of the Internet of Things
+http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf
+
+How To Write Shared Libraries
+https://www.akkadia.org/drepper/dsohowto.pdf
+
+All about the laser (and microphone) atop Mars 2020, NASA's next rover
+https://phys.org/news/2020-02-laser-microphone-atop-mars-nasa.html
+
+
+Turing-NLG: A 17-billion-parameter language model by Microsoft 
+https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
+
+ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters
+https://www.microsoft.com/en-us/research/blog/zero-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/?OCID=msr_blog_zerodeep_tw
+
+可以在半分钟内理解的127个有用的JavaScript代码集合
+https://morioh.com/p/a76bc7d72226?f=5c22e47440738156a7078a19
+
+
+## Hack && Security
+
+Self-encrypting deception: weaknesses in theencryption of solid state drives
+https://www.ieee-security.org/TC/SP2019/papers/310.pdf
+
+Reverse engineering my router's firmware with binwalk
+https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/
+
+Windows trust in abandoned code lets ransomware burrow deep into targeted machines
+https://arstechnica.com/information-technology/2020/02/hackable-code-trusted-by-windows-lets-ransomware-burrow-deep-into-targeted-machines/
+
+Internet's safe-keepers forced to postpone crucial DNSSEC root key signing ceremony – no, not a hacker attack, but because they can't open a safe (**)
+https://www.theregister.co.uk/2020/02/13/iana_dnssec_ksk_delay/
+
+
+The Dark Side of Smart Lighting: Check Point Research Shows How Business and Home Networks Can Be Hacked from a Lightbulb (**)
+https://blog.checkpoint.com/2020/02/05/the-dark-side-of-smart-lighting-check-point-research-shows-how-business-and-home-networks-can-be-hacked-from-a-lightbulb/
+
+Lessons From The History Of Attacks On Secure Hash Functions (**)
+https://electriccoin.co/blog/lessons-from-the-history-of-attacks-on-secure-hash-functions/
+
+NSA's Backdoor Key from Lotus-Notes
+http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html
+
+FTI-Report-into-Jeff-Bezos-Phone-Hack (***)
+https://assets.documentcloud.org/documents/6668313/FTI-Report-into-Jeff-Bezos-Phone-Hack.pdf
+
+Introducing BusKill: A Kill Cord for your Laptop
+https://tech.michaelaltfield.net/2020/01/02/buskill-laptop-kill-cord-dead-man-switch/
+
+How to decrypt WhatsApp end-to-end media files 
+https://blog.erratasec.com/2020/01/how-to-decrypt-whatsapp-end-to-end.html#.Xk0Tk3JlO73
+
+Freelance Writing: Hacking Content Mills
+https://highestpayinggigs.com/freelance-writing/
+
+
+allaboutbirds 鸟类百科：关于鸟类的百科知识网站。
+支持对鸟类检索、鸟类在线直播、鸟类课堂（收费和免费的）。
+
+搜索后的鸟页面，包括鸟类的概述、名称（形态，分类），成长历（栖息地、食物、巢穴，行为、动保），（生活和迁徙分布）地图，声音、视频，图像等各种信息。
+
+https://www.allaboutbirds.org/guide/Golden_Eagle/overview
+
+
+
+pwn.college是一个第一阶段的教育平台，供学生（和其他有关方面）以动手方式学习和实践核心网络安全概念。 它旨在使网络安全中的“白带”成为“黄带”，能够接近（简单）CTF和战争游戏。
+pwn.college is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “yellow belt”, able to approach (simple) CTFs and wargames.
+
+pwn.college被组织为涵盖不同主题的一组模块。 每个模块都有一组讲座（现在可以提供幻灯片，即将推出视频！）和练习问题，这些问题是自动为每个有抱负的黑客进行练习而生成的。 挑战来自于教学品种，它将引导您完成自己的解决方案；测试品种，将在较少的指导下挑战您。 质询直接在pwn.college上运行，可以在练习模式下启动，在该模式下您具有root用户访问权限，但有一个伪造的标志；在实模式下，您无法在没有利用该挑战的情况下读取该标志。 pwn.college当前提供以下模块：
+
+    Module 1: Abusing SUID in Linux
+    Module 2: Shellcode
+    Module 3: Sandboxing
+    Module 4: Reversing
+    Module 5: Memory Corruption
+    Module 6: Format Strings
+    Module 7: Return Oriented Programming
+    Module 8: Heap Exploitation
+    Module 9: Kernel Security
+
+
+https://pwn.college/
+
+
+## Program & Tools
+
+Performant front-end architecture (**)
+https://www.debugbear.com/blog/performant-front-end-architecture
+
+Myths Programmers Believe about CPU Caches
+https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+
+The state of Linux graphic design tools in 2019
+https://opensource.com/article/19/4/linux-graphic-design-tools-professionals
+
+moxie: incremental declarative UI in Rust
+https://blog.anp.lol/rust/moxie-intro/
+
+Linux containers in 500 lines of code
+https://blog.lizzie.io/linux-containers-in-500-loc.html
+
+TypeScript’s quirks: How inconsistencies make the language more complex (*)
+https://blog.asana.com/2020/01/typescript-quirks/#close
+
+How to Generate Static Sites With Javascript Static Sites Generators
+https://settlecode.com/how-to-generate-static-sites-with-javascript-static-sites-generators/
+
+Simpler UI Logic With Finite State Machines
+https://terodox.tech/ui-state-machines/
+        
+Classification of the principal programming paradigms 
+https://www.info.ucl.ac.be/~pvr/paradigms.html
+
+Bob and Javascript Prototypes – A beginners guide
+https://phptouch.com/2019/12/25/bob-js-prototypes-1/
+
+Measuring Mutexes, Spinlocks and how Bad the Linux Scheduler Really is
+https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/
+
+Memory Errors:The Past, the Present, and the Future
+http://www.isg.rhul.ac.uk/sullivan/pubs/raid-2012.pdf
+
+The Go low-level calling convention on x86-64  (**)
+https://dr-knz.net/go-calling-convention-x86-64.html
+
+Autonomous Rust Unikernels in Google Cloud
+https://nanovms.com/dev/tutorials/autonomous-rust-unikernels-in-gcloud
+
+Kotlin vs Java
+https://www.kotlinvsjava.com/scoping-functions.html
+
+Programming From 8 To 80
+https://hackernoon.com/programming-from-8-to-80-qq17n31rk
+
+Learn Rust With Entirely Too Many Linked Lists
+https://rust-unofficial.github.io/too-many-lists/
+
+What's new in Java 12, 13 and 14, part I (*)
+https://java.christmas/2019/17
+
+Software Development is Not About Unit Tests
+https://hackernoon.com/software-development-is-not-about-unit-tests-r77132y7
+
+https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea
+
+Run an Internet Speed Test from the Linux Command Line (**)
+https://www.putorius.net/speed-test-command-line.html
+
+WebAssembly as a Platform for Abstraction
+http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/
+
+What’s next for the popular programming language R?
+https://qz.com/1661487/hadley-wickham-on-the-future-of-r-python-and-the-tidyverse/
+
+To become a good C programmer
+http://fabiensanglard.net/c/
+
+Build a WhatsApp Chatbot With Python, Flask and Twilio
+https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
+
+Using Makefile(s) for Go
+https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html
+
+The Principles of Versioning in Go 
+https://research.swtch.com/vgo-principles
+
+Security assessment techniques for Go projects
+https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/
+
+Writing Useful go/analysis Linter 
+https://disaev.me/p/writing-useful-go-analysis-linter/
+
+Using WebAssembly from .NET with Wasmtime
+https://hacks.mozilla.org/2019/12/using-webassembly-from-dotnet-with-wasmtime/
+
+A collection of coding horrors
+https://blog.petdance.com/2019/06/19/collection-of-coding-horrors/
+
+Modern, functional Common Lisp: Myths and tips
+https://ambrevar.xyz/modern-common-lisp/index.html
+
+The Leadership Library for Engineers 工程师最佳图书库
+https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
+
+shrynk - Using Machine Learning to learn how to Compress
+https://vks.ai/2019-12-05-shrynk-using-machine-learning-to-learn-how-to-compress
+
+Developer Experience: Fundamentally harder than normal UX
+https://www.gabrielpickard.com/posts/developer-experience-fundamentally-harder-than-normal-ux/
+
+Print CSS basics in 10 minutes
+https://www.paperplane.app/blog/print-css-basics/
+
+Type checking for BPF tracing
+https://lwn.net/Articles/803258/
+
+How To Design Mobile Apps For One-Hand Usage
+https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/
+
+
+Meet WebWindow, a cross-platform webview library for .NET Core
+https://blog.stevensanderson.com/2019/11/18/2019-11-18-webwindow-a-cross-platform-webview-for-dotnet-core/
+
+SVG, Canvas, WebGL? Visualization options for the web
+https://www.yworks.com/blog/svg-canvas-webgl
+
+Design Patterns and Video Games 
+https://www.patternsgameprog.com/discover-python-and-patterns-9-pygame/
+
+BPF Theremin, Tetris, and Typewriters
+http://www.brendangregg.com/blog/2019-12-22/bpf-theremin.html
+
+## Database
+
+Testing Dataflow Analyses for Precision and Soundness
+https://blog.regehr.org/archives/1709
+
+How To Corrupt An SQLite Database File
+https://www.sqlite.org/howtocorrupt.html
+
+How to monitor MySQL / MariaDB query progress
+https://www.spinellis.gr/blog/20191103/
+
+Lessons learned using Single-table design with DynamoDB and GraphQL in production
+https://servicefull.cloud/blog/dynamodb-single-table-design-lessons/
+
+The 5 Minute Introduction to DuckDB: The SQLite for Analytics
+https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/
+
+System design hack: Postgres is a great pub/sub & job server
+https://layerci.com/blog/postgres-is-the-answer/
+
+## Algorithms
+
+Finding unique items - hash vs sort?
+https://douglasorr.github.io/2019-09-hash-vs-sort/article.html
+
+Why databases use ordered indexes but programming uses hash tables
+https://www.evanjones.ca/ordered-vs-unordered-indexes.html
+
+Algorithms interviews: theory vs. practice
+https://danluu.com/algorithms-interviews/
+
+Self-encrypted cache structure
+https://www.nayuki.io/page/self-encrypted-cache-structure
+
+An analysis of performance evolution of Linux’s core operations
+https://blog.acolyer.org/2019/11/04/an-analysis-of-performance-evolution-of-linuxs-core-operations/
+
+Lectures and Recitations
+https://6004.mit.edu/web/fall19/resources/lectures
+
+Recognizing graphs from image
+https://www.yworks.com/blog/projects-optical-graph-recognition
+
+When your data doesn’t fit in memory: the basic techniques
+https://pythonspeed.com/articles/data-doesnt-fit-in-memory/
+
+Parsing XML at the Speed of Light
+https://aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html
+
+Hydra—Kubernetes based Dataset PubSub and Volume Management System
+https://0x65.dev/blog/2019-12-15/hydra-kubernetes-based-dataset-pubsub-and-volume-management-system.html
+
+API end to end testing with Docker
+https://fire.ci/blog/api-end-to-end-testing-with-docker/
+
+Nota is a powerful terminal calculator with rich mathematical notation and chart rendering.
+https://kary.us/nota/
+
+How I automate my home
+https://japaniot.github.io/2020/01/01/how-i-automate-my-home-en/
+
+You-dont-need-microservices
+https://medium.com/@ebin/stop-you-dont-need-microservices-dc732d70b3e0
+
+how https works
+https://medium.com/@animeshgaitonde/how-https-works-part-1-building-blocks-64f9915b1f39
+
+CI/CD Pipelines: Monad, Arrow or Dart?
+https://roscidus.com/blog/blog/2019/11/14/cicd-pipelines/
+
+Installing system packages in Docker with minimal bloat
+https://pythonspeed.com/articles/system-packages-docker/
+
+Modern Data Practice and the SQL Tradition
+https://tselai.com/modern-data-practice-and-the-sql-tradition.html
+
+DevOps, DataOps in 2020 – Tectonic Shift
+https://worklifenotes.com/2020/01/04/devops-2020-tectonic-shift/
+
+Learn Docker — from the beginning, Part V Docker Compose, variables, volumes, networks and databases 
+https://dev.to/azure/dockerfrom-the-beginning-part-v-n2c
+
+EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud
+https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/
+
+https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
+
+
+https://media.ccc.de/v/36c3-10893-high-assurance_crypto_software
+
+Convert your ascii diagram scribbles into happy little SVG
+https://ivanceras.github.io/svgbob-editor/
+
+Make resilient Go net/http servers using timeouts, deadlines and context cancellation
+https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+
+How to write a book in Emacs
+https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs
+
+gccemacs is a modified Emacs capable of compiling and running Emacs Lisp as native code in form of re-loadable elf files. As the name suggests this is achieved blending together Emacs and the gcc infrastructure.
+http://akrl.sdf.org/gccemacs.html
+
+The scope of this project is to experiment and discuss the proposed compiler design on the emacs-devel mailing list
+
+Using Vim as your main editor for web development 
+https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73
+
+Lisp in Vim with Slimv or Vlime
+https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime/
+
+The Simple Truth about Physics
+https://blogs.scientificamerican.com/observations/the-simple-truth-about-physics/
+
+圖解機器學習
+http://www.r2d3.us/%E5%9C%96%E8%A7%A3%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%AC%AC%E4%B8%80%E7%AB%A0/
+
+95%-ile isn't that good
+https://danluu.com/p95-skill/
+
+Here Are the Most Beautiful Science GIFs We Discovered in 2019
+https://www.scientificamerican.com/article/here-are-the-most-beautiful-science-gifs-we-discovered-in-2019/
+
+The Best Science Books of 2019
+https://fivebooks.com/best-books/science-2019-barbara-kiser/
+
+Build an 8-bit computer from scratch
+https://eater.net/8bit
+
+The Map of Mathematic
+https://www.quantamagazine.org/the-map-of-mathematics-20200213/
+
+## Github Resources
+
+Dead simple testing framework for Bash with rudimentary coverage 
+https://github.com/Checksum/critic.sh
+
+
+ Easy Web UI Testing with Selenium & pytest (***)
+ https://github.com/seleniumbase/SeleniumBase
+
+
+ Supercharge your command line experience: GitHub CLI is now in beta  (*)
+https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/
+
+
+A Bestiary of Single-File Implementations of Programming Languages
+https://github.com/marcpaq/b1fipl
+
+A quick reference guide on fork and pull request workflow 
+https://github.com/susam/gitpr#quick-reference
+
+
+BDD style unit testing framework for POSIX compliant shell script https://shellspec.info (*)
+https://github.com/shellspec/shellspec
+
+Enhanced PostgreSQL logical replication 
+https://github.com/kingluo/pgcat
+
+Plugin for sudo that requires another human to approve and monitor privileged sudo sessions 
+https://github.com/square/sudo_pair
+
+A Playstation 4 emulator which was just started.
+A project done for fun, and for technical research.
+https://github.com/Inori/GPCS4
+
+A guide and tool for cracking ssh known_hosts files with hashcat 
+https://github.com/chris408/known_hosts-hashcat/
+
+An Ultimate Kubernetes Hands-on Labs
+https://github.com/collabnix/kubelabs
+
+
+Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments. At the current stage, it has the following components:
+https://github.com/pingcap/chaos-mesh
+
+ffmpeg-python: Python bindings for FFmpeg (**)
+https://github.com/kkroening/ffmpeg-python
+
+A New Search Engine
+https://0x65.dev/blog/2019-12-05/a-new-search-engine.html
+
+vmlinux-to-elf
+
+This tool allows to obtain a fully analyzable .ELF file from a vmlinux/vmlinuz/bzImage/zImage kernel image (either a raw binary blob or a preexisting but stripped .ELF file), with recovered function and variable symbols.
+https://github.com/marin-m/vmlinux-to-elf
+
+A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability. https://age-encryption.org
+https://github.com/FiloSottile/age
+
+An experimental distributed SQL database, written in Go.
+https://github.com/tomarrell/lbadd
+
+Stroom is a data processing, storage and analysis platform. It is scalable - just add more CPUs / servers for greater throughput. It is suitable for processing high volume data such as system logs, to provide valuable insights into IT performance and usage.
+https://github.com/gchq/stroom
+
+Practical introduction to Prometheus for developers. 
+https://github.com/danielfm/prometheus-for-developers
+
+ImTui is an immediate mode text-based user interface library. Supports 256 ANSI colors and mouse/keyboard input.
+https://github.com/ggerganov/imtui
+
+HNTerm is a small console application written in C++ for browsing Hacker News.
+https://github.com/ggerganov/hnterm
+
+killersheep: Silly game for Vim 8.2 
+https://github.com/vim/killersheep
+
+Convert your ascii diagram scribbles into happy little SVG
+https://github.com/ivanceras/svgbob
+
+Graphviz to ASCII converter using Graph::Easy https://dot-to-ascii.ggerganov.com
+https://github.com/ggerganov/dot-to-ascii
+
+An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
+https://github.com/connor-brooks/ecosim
+
+https://github.com/huan/docker-wechat
+
+Defeating a Laptop's BIOS Password
+https://github.com/skysafe/reblog/blob/master/0000-defeating-a-laptops-bios-password/README.md
+
+
+Programmatically collect normalized news from (almost) any website. By newscatcherapi.com.
+https://github.com/kotartemiy/newscatcher
+
+GoodReads Data Pipeline
+https://github.com/san089/goodreads_etl_pipeline
+
+Pysheeet was created with intention of collecting python code snippets for reducing coding hours and making life easier. 
+https://github.com/crazyguitar/pysheeet
+
+Let's Build a Simple Database；Writing a sqlite clone from scratch in C
+https://cstack.github.io/db_tutorial/parts/part1.html
+
+## 0310
+
+
+Introduction to physical penetration tests
+https://diablohorn.com/2019/07/21/introduction-to-physical-penetration-tests/
+
+
+
+
+https://www.arthurkoziel.com/private-helm-repo-with-gcs-and-github-actions/
+
+
+
+成功的Git分支模型
+https://nvie.com/posts/a-successful-git-branching-model/
+
+请停止推荐Git Flow！
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
+
+GitFlow被认为有害
+https://www.endoflineblog.com/gitflow-considered-harmful
+
+
+在Bright Innovations我们使用Git
+https://brightinventions.pl/blog/how-do-we-use-git/
+
+比GitFlow更简单的分支策略：三流
+https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/
+
+git-flow vs github-flow的优缺点是什么？[关闭]
+https://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow
+
+
+数据科学理论面试题
+https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md
+
+160多个数据科学面试问题
+https://hackernoon.com/160-data-science-interview-questions-415s3y2a
+
+为iOS应用编写命令行界面
+https://rambo.codes/posts/2020-03-01-writing-command-line-interfaces-for-ios-apps
+
+
+VBA会在2019年死亡吗？
+https://www.thespreadsheetguru.com/blog/are-vba-macros-dead
+
+
+数字公共基础设施案例
+https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure
+
+
+
+https://medium.com/@comma_ai/hacking-an-audi-performing-a-man-in-the-middle-attack-on-flexray-2710b1d29f3f
+
+https://medium.com/better-programming/2020-001-full-stack-pronounced-dead-355d7f78e733
+
+
+https://medium.com/preply-engineering/jenkins-omg-275e2df5d647
+
+https://medium.com/@nakivo/hyper-v-backup-tips-b9daf19f9126
+
+https://medium.com/@nakivo/how-to-increase-vm-backup-speed-c35e1bddce6e
+
+
