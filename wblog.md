@@ -1,4 +1,22 @@
+pgsync——#postgresql# 数据库数据同步工具。优势为：
 
+速度-比4核计算机上的传统工具快4倍。
+安全性-防止敏感数据离开服务器的内置方法。
+便利性-同步部分表，表组和相关记录。
+
+具体操作：
+
+git clone https://github.com/ankane/pgsync.git
+cd pgsync
+bundle install
+
+createdb pgsync_test1
+createdb pgsync_test2
+createdb pgsync_test3
+
+bundle exec rake test
+
+==================
 WEB技能树，一栈工程师必备，前端大神秘籍，
 https://andreasbm.github.io/web-skills/
 =================
