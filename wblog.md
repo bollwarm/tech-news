@@ -1,3 +1,26 @@
+在繁忙的开发工作中，分支拉太多，是不是会忘记各个分支情况？
+
+为了解决这个烦恼，我们提供一个命令：
+```
+git log -g --abbrev-commit --pretty=format:"%gs ~ %gd"  --date=relative| grep 'checkout:' | grep -oE '[^ ]+ ~ .*' | awk -F~ '!seen[$1]++' | head -n 10 | awk   -F' ~ HEAD@{' '{printf(" \\033[33m%s: \\033[37m %s\\033[0m \n", substr($2, 1, length($2)-1), $1)
+```
+
+`git log -g --abbrev-commit --pretty=format:"%gs ~ %gd"  --date=relative `获取原始的reflog数据，并对其格式化，数据显示为距今日期。
+`grep 'checkout:' `过滤掉多余日志，只想是checkou的行。
+`grep -oE '[^ ]+ ~ .*' ` 仅保留（-o）我们关心的行的一部分。
+`awk -F~ '!seen[$1]++' `用~为分割符号字段。用数组seen每个字段增加计数，对大于则跳过，相当于取唯一（sort|uniq）
+`head -n 10：`显示最先top 10。
+`awk -F' ~ HEAD@{' '{printf(\"  \\033[33m%s: \\033[37m %s\\033[0m\\n\", substr($2, 1, length($2)-1), $1)}'`：用ANSI颜色颜渲染色重新格式化彩色显示。
+
+为了方便使用，可以该命令加入别名
+vim `〜/.gitconfig` 增加
+```
+[alias]
+    binfo = !git reflog show --pretty=format:'%gs ~ %gd' --date=relative | grep 'checkout:' | grep -oE '[^ ]+ ~ .*' | awk -F~ '!seen[$1]++' | head -n 10 | awk -F' ~ HEAD@{' '{printf(\"  \\033[33m%s: \\033[37m %s\\033[0m\\n\", substr($2, 1, length($2)-1), $1)}'
+```
+
+然后就可以用`git binfo` 即可
+=========
 pgsync——#postgresql# 数据库数据同步工具。优势为：
 
 速度-比4核计算机上的传统工具快4倍。
