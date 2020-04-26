@@ -1,3 +1,10 @@
+BASH常见问题列表（FAQ）119例
+
+囊括了常见的bash问题，支持多格式输出（纯文本，打印版以及Docbook），也可以添加修改（wiki），建议大家收藏学习。
+
+https://mywiki.wooledge.org/BashFAQ/
+
+==========================
 论文：《Achieving reliable UDP transmission at 10 Gb/s using BSD socket for data acquisition systems》（《利用BSD soket实现数据采集系统可靠的10Gb/s的UDP传输》）
 
 用户数据报协议（UDP）是小型嵌入式系统中数据传输的常用协议。UDP协议的不可靠的，可能会发生数据包丢失。如果不使用最佳数据包大小，可达的数据速率也可能会受到影响。业界更好多的选择是，传输控制协议（TCP），可以保证数据的有序交付，并自动调整传输以匹配传输链路的功能。但是，由于UDP的简单，占用内存小，指令控件小，通常比UDP更受UDP的青睐。比如即将到来的HTTP 2，就是基于底层的UDP协议的改进。
@@ -38,7 +45,7 @@ vim `〜/.gitconfig` 增加
 ```
 
 然后就可以用`git binfo` 即可
-=========
+===========
 pgsync——#postgresql# 数据库数据同步工具。优势为：
 
 速度-比4核计算机上的传统工具快4倍。
