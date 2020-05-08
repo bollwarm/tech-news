@@ -1,3 +1,8 @@
+论文：《Breaking RSA Security With A Low Noise D-Wave 2000Q Quantum Annealer:Computational Times, Limitations And Prospects》（运用低噪声D-Wave 2000Q量子退火机破解RSA：计算时间，局限性和前景）
+运行Shor的归一化算法的大型通用量子计算机是将来有望破解RSA密码系统的可能方法。但是量子计算机和算法目前仍处于处于起步阶段，用于整数分解的量子退火方法是目前业界关注的热点。该论文研究使用低噪声D-Wave 2000Q量子退火机为基础对当前硬件条件的局限性以及未来发展的挑战进行了广泛的研究，分析了通过量子退火破解RSA最有希望的策略。
+
+https://arxiv.org/pdf/2005.02268.pdf
+=====================================
 微软发布20w美刀的赏金计划，破解Azure Sphere操作系统
 
 Azure Sphere操作系统是基于Linux自定义高级紧凑的操作系统，并对应用程序进行了安全加强，用于集成整合硬件，软件和云端，藉此提供微软IoT端到端安全平台。此次赏金计划，包括两部分：
