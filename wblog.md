@@ -1,3 +1,11 @@
+
+雷电接口涉及爆漏洞：2019年之前生产PC都易受到影响，使用Thunderspy可以5分钟内拿下所有安全防线，影响系统包括所有Windows、Linux和部分Mac
+
+Thunderspy的攻击是是隐身的，没有任何攻击的痕迹。不需要通过网络钓鱼链接或攻击者诱骗使用的恶意硬件。即使遵循了最佳安全性做法，Thunderspy也可以工作，即使短暂离开也可以锁定或挂起计算机，并且使用了安全 Boot、强BIOS密码和操作系统密码并启用了完整磁盘加密，Thunderspy仍然可以拿下：仅需5分钟，你的计算机，螺丝刀起子和一些易于携带的硬件。
+
+    https://thunderspy.io/
+ 
+====================
 论文：《Breaking RSA Security With A Low Noise D-Wave 2000Q Quantum Annealer:Computational Times, Limitations And Prospects》（运用低噪声D-Wave 2000Q量子退火机破解RSA：计算时间，局限性和前景）
 运行Shor的归一化算法的大型通用量子计算机是将来有望破解RSA密码系统的可能方法。但是量子计算机和算法目前仍处于处于起步阶段，用于整数分解的量子退火方法是目前业界关注的热点。该论文研究使用低噪声D-Wave 2000Q量子退火机为基础对当前硬件条件的局限性以及未来发展的挑战进行了广泛的研究，分析了通过量子退火破解RSA最有希望的策略。
 
