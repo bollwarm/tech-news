@@ -1,4 +1,14 @@
 
+
+Turning Noise Into Signal: Using AI to Gain Context for Scientific Research （将噪声转化为信号：使用人工智能获取科研背景）
+
+Josh Nicholson是scite（www.scite.ai）的联合创始人兼首席执行官，该公司正在使用深度学习来分析整个科学文献，以更好地衡量科学工作的准确性。
+scite.ai截止目前已经分析了16,158,032篇论文的的526,695,986篇引用声明包括Wikipedia中所有英文，而且他们的分析程序还在自动分析。所有成功都可以在
+他们的网站scite.ai的引文搜索引擎中搜索，引文搜索引擎中的智能条目超过5亿条。
+
+他们成果之一，有关新冠肺炎COVID-19在网络文章和预印论文引用的可视化：
+https://scite.ai/visualizations/covid
+=============
 雷电接口涉及爆漏洞：2019年之前生产PC都易受到影响，使用Thunderspy可以5分钟内拿下所有安全防线，影响系统包括所有Windows、Linux和部分Mac
 
 Thunderspy的攻击是是隐身的，没有任何攻击的痕迹。不需要通过网络钓鱼链接或攻击者诱骗使用的恶意硬件。即使遵循了最佳安全性做法，Thunderspy也可以工作，即使短暂离开也可以锁定或挂起计算机，并且使用了安全 Boot、强BIOS密码和操作系统密码并启用了完整磁盘加密，Thunderspy仍然可以拿下：仅需5分钟，你的计算机，螺丝刀起子和一些易于携带的硬件。
