@@ -1,5 +1,42 @@
+Rust语言是未来趋势，Rust改造世界，除了Linux内核和Windows内核都提供Rust的原原生开发接口外,Rust社区也正在推出大量的优质工具轮子。下面给大家推荐一些常见的符合 POSIX的命令工具的Rust替代者:
+
+cat ➞ bat
+https://github.com/sharkdp/bat
+
+du ➞ dust
+https://github.com/bootandy/dust
+
+find ➞ fd
+https://github.com/sharkdp/fd
+
+find ➞ skim
+https://github.com/lotabout/skim
+
+grep ➞ ripgrep
+https://github.com/BurntSushi/ripgrep
+
+ls ➞ exa
+https://the.exa.website
+
+ps ➞ procs
+https://github.com/dalance/procs
+
+sed ➞ sd
+https://github.com/chmln/sd
+
+time ➞ hyperfine
+https://github.com/sharkdp/hyperfine
+
+top ➞ zenith
+https://github.com/bvaisvil/zenith
+
+wc -l ➞ tokei
+https://github.com/XAMPPRocky/tokei
+
+也许还有很多，大家可以回复大家比较中意用Rust编写的工具。
 
 
+==========================
 Turning Noise Into Signal: Using AI to Gain Context for Scientific Research （将噪声转化为信号：使用人工智能获取科研背景）
 
 Josh Nicholson是scite（www.scite.ai）的联合创始人兼首席执行官，该公司正在使用深度学习来分析整个科学文献，以更好地衡量科学工作的准确性。
