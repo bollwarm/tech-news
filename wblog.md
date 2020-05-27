@@ -1,4 +1,9 @@
+# 在线学基因 # 世界知名大学美国犹他大学 utah.edu的在线开放网站，基因学习learn.genetics 提供了大量高品质的学习材料，值得生物，医学，植物类同学学习。
 
+
+    https://learn.genetics.utah.edu/
+
+=====================
 #盲人福音#  CELL 最新论文《Dynamic Stimulation of Visual Cortex Produces
 Form Vision in Sighted and Blind Humans》（《视觉皮层的动态刺激产生有视力和盲人的视觉形态》）表明，可以用现代技术产生电脉冲模式传递到大脑设计视觉处理的部分后，就可以“阅读”字母
 
