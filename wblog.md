@@ -1,4 +1,9 @@
+自己玩着写一个JVM，实例：
 
+https://zserge.com/posts/jvm/
+
+
+====================
 #HackerOne# 宣布累计向白帽子支付1亿美刀的赏金
 
 
