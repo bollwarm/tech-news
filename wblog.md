@@ -1,3 +1,12 @@
+Postgres发展史：约瑟夫.海勒斯坦的《Looking Back at Postgres》(回顾Postgres)
+
+论文回顾了UC Berkeley Postgres项目的发展历史，Postgres数据库由Mike Stonebraker在1980年代中期到1990年代中期领导开发。这篇文章是为Mike Stonebraker的图灵奖书而征集的，论文结合了多人/历史回忆。 因此，它专注于Stonebraker的设计思想和领导才能。但是由于Stonebraker不是开发人员。 Postgres代码库是一个由一群才华横溢的学生和少数职业码农组成的团队的工作，他们的经验（仅略多于学生）多于学生。
+
+
+https://arxiv.org/pdf/1901.01973.pdf
+
+===========================
+
 免费的reCAPTCHA数据集资源下载
 
 最新有为国外的开发小哥在Github上公开了自己的大量reCAPTCHA图片数据集。
@@ -47,7 +56,6 @@ https://zserge.com/posts/jvm/
 
 #HackerOne# 宣布累计向白帽子支付1亿美刀的赏金
 
-
 Bug赏金平台HackerOne日前宣布，它已向全球白帽黑客支付了1亿美元的奖励。据平台开放以来，累积发现了17 万个多安全漏洞。平台注册有超过70万名的白帽子，有1900多HackerOne客户为bug买单。累计由此挽回数百亿美刀的损失。
 
 根据统计HackerOne赏金数目逐年翻倍上升，从2014到2016有1000万美刀，2017年至2019年的3000万美刀。而从19年第二季度至2020年第二季度达到了5000万美元，一年内超过了历史总和。
@@ -55,12 +63,15 @@ HackerOne每年有12%白帽子赏金超过20,000美刀，有3%的白帽子赏金
 2019年8月，HackerOne还宣布，使用其平台的八名黑客已成为百万富翁，其中19岁的Santiago Lopez是2019年3月第一位收入超过100万美元的黑客。
 
 ======================
+
 在线学基因  世界知名大学美国犹他大学 utah.edu的在线开放网站，基因学习learn.genetics 提供了大量高品质的学习材料，值得生物，医学，植物类同学学习。
 
 
     https://learn.genetics.utah.edu/
+    
 
 =====================
+
 盲人福音 CELL 最新论文《Dynamic Stimulation of Visual Cortex Produces
 Form Vision in Sighted and Blind Humans》（《视觉皮层的动态刺激产生有视力和盲人的视觉形态》）表明，可以用现代技术产生电脉冲模式传递到大脑设计视觉处理的部分后，就可以“阅读”字母
 
