@@ -1,3 +1,65 @@
+Uber开源工具可自动清理过时的代码的工具食人鱼（Piranha）
+
+Uber开源了其内部使用的自动化清理工具食人鱼（Piranha），他可以在管道中运行，以不断寻找要删除的过时代码。目前，Piranha支持Java，Swift和Objective-C项目。有一些开放性问题需要增加对其他语言（如Kotlin，.NET和JavaScript）的支持。
+使用静态分析，Piranha执行三个关键任务：
+
+删除功能标记API周围的代码；
+删除由于上一步而变得不可访问的代码；
+最后删除与该标记相关的所有测试。
+
+
+要执行食人鱼，需要三个输入：
+
+正在考虑的标志，处理行为以及标志的所有者。
+
+例如，考虑以下包含功能部件标志的Java代码段：
+
+public class MyClass {
+  private XPTest expt;
+  ...
+  public void foo() {
+    if(expt.flagEnabled(TestExperimentName.SAMPLE_STALE_FLAG)) {
+        System.out.println("Hello World");
+    }
+  }
+
+  public void bar() {
+    if(expt.flagDisabled(TestExperimentName.SAMPLE_STALE_FLAG)) {
+        System.out.println("Hi World");
+    }
+  }
+}
+
+可以使用下面参数调用食人鱼：
+
+options.errorprone.errorproneArgs << "-XepOpt:Piranha:FlagName=SAMPLE_STALE_FLAG"
+options.errorprone.errorproneArgs << "-XepOpt:Piranha:IsTreated=true"
+options.errorprone.errorproneArgs << "-XepOpt:Piranha:Config=config/piranha.properties"
+
+
+结果如下所示：
+
+public class MyClass {
+  private XPTest expt;
+  ...
+  public void foo() {
+     System.out.println("Hello World");
+  }
+
+
+  public void bar() {
+  }
+}
+
+项目Github地址为，开源协议为Apache 2.0.
+
+https://github.com/uber/piranha/
+
+有关项目的论文也公开了
+
+https://github.com/uber/piranha/blob/master/report.pdf
+
+===========================
 [安全论文]2500例Docker Hub镜像安全漏洞态势分析
 
 在过去的几年中，以Docker为领先的容器平台、容器技术的被广泛地采纳和使用。Docker用于公共可用容器镜像的在线存储库称为Docker Hub，目前Docker Hub中托管超过350万个的镜像，是世界上最大的容器镜像服务站点。
