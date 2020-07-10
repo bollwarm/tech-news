@@ -1,3 +1,18 @@
+
+《Concentrating Solar Power Best Practices Study》 （聚光太阳能最佳实践研究）
+
+聚光太阳能（CSP）行业的根源是1980年代开始在加利福尼亚州的LUZ抛物线槽式开发。
+LUZ建造了九座工厂，这些工厂展示了CSP技术的早期商业应用，为将来的CSP系统开发提供了重要的知识来源。
+在过去的15年中，CSP行业已经出现并发展成为全球性行业和供应链。
+CSP工厂已在12个不同的国家/地区建立，目前该行业（截止2020年）将有在全美将有100座工厂投入商业运营。
+许多公司，实验室，机构和个人在这种可再生电源的发展和增长中发挥了重要作用。
+
+
+本文提供了大量实践范例，可用于以更低的项目成本和改善的长期工厂运营来开发更强大的CSP项目。
+
+
+https://www.solarpaces.org/wp-content/uploads/Concentrating-Solar-Power-Best-Practices-Study.pdf
+======================
 Uber开源工具可自动清理过时的代码的工具食人鱼（Piranha）
 
 Uber开源了其内部使用的自动化清理工具食人鱼（Piranha），他可以在管道中运行，以不断寻找要删除的过时代码。目前，Piranha支持Java，Swift和Objective-C项目。有一些开放性问题需要增加对其他语言（如Kotlin，.NET和JavaScript）的支持。
