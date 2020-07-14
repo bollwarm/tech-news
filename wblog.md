@@ -1,3 +1,9 @@
+Rust语言之旅，在线学习，在线build和执行，一边学习，一边就可以执行，查看结果。
+支持多种语言，其中也包括中文，是Rust语言初学者的良师益友！
+
+https://tourofrust.com/TOC_zh-cn.html
+
+========================================================
 
 《Concentrating Solar Power Best Practices Study》 （聚光太阳能最佳实践研究）
 
