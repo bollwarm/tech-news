@@ -1,4 +1,36 @@
-工程师只需一张纸就可以创建自供电的无线键盘
+explaninshell：一个Linux命令行解析和优化提示工具，可以对输入的名一个命令行解析并且图示说明。站点包含来自Ubuntu帮助页存储库中第1节和第8节的29761已解析的手册页。程序是用Python编写的用Flask和uwsgi写Web界面，还使用bashlex和。，一些NLTK（查找联机帮助页中有趣的部分），用d3.js来连接线图形。
+
+支持在线使用（explaninshell dot com）或者在本地安装。docker方式安装如下：
+
+
+穿件容器：
+
+docker-compose build
+docker-compose up
+
+docker cp dump/ explainshell_db_1:/tmp/dump
+
+导入分类器：
+
+docker exec explainshell_db_1 mongorestore /tmp/dump
+
+导入帮助文档：
+
+docker exec explainshell_web_1 bash -c "PYTHONPATH=. python explainshell/manager.py --log info /usr/share/man/man1/grep.1.gz"
+
+open http://localhost:5000
+
+docker exec explainshell_db_1 mongorestore -d explainshell_tests /tmp/dump/explainshell
+
+docker exec explainshell_web_1 make tests
+
+
+
+项目仓库： github.com/idank/explainshell
+
+=======================
+
+工程师发明只需一张纸就可以创建自供电的无线键盘
 
 普渡大学的科学家们找到了一种方法，可以使一张纸做成进行数字交互笔记纸键盘。通过简单的打印，可以将普通纸变成蓝牙连接，自供电，无线，交互式键盘或小键盘。
 
