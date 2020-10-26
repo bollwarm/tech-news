@@ -1,3 +1,27 @@
+
+应RIAA的DMCA的请求Gitub封禁了youtube-dl仓库。
+
+YouTube-DL是一个Python写的油管视频下载爬虫。
+这是自2018年微软巨资收购Github之后的一个变化，DMCA（数字千年版权法）知否可以管到开源项目，目前还存争议。
+
+
+
+目前建议对一些重要的项目建议使用其他比较安全的运营商或者自建Git服务器以保持完全独立：
+
+Codeberg： Codeberg是一家注册的德国非营利组织，这是一个比较好的选择。Codeberg不依赖外部服务。没有第三方Cookie，没有跟踪。托管在欧盟。
+
+NotABug： NotABug.org由Peers运营，Peers是对自由软件和自由社会感兴趣的一群人。不过，它主要用于小型项目。
+sourcehut ：sourcehut目前被认为是alpha版本，不会免费使用，但没有任何跟踪或广告。所有功能都无需JavaScript就可以使用。
+Gitee： 是由开源中国推出的国产Git在线托管平台，建议国产项目都在Gitee进行备份性质托管，一方面可以防止被封禁，而且国内用户访问可以极大提高速度。
+
+自己托管的服务器可以用使用的平台：
+
+Gitlab-ce
+Gogs：golang开发的一个国产Git服务器，小而精巧，比gitlab省资源。
+Gitea：是gogs fork的社区版
+
+======================================================================
+
 Coding就是生产力，编程也耗能。那么编程语言的能耗怎么样呢？
 
 就有人专门对此做了研究，并发表论文《Energy Efficiency across Programming Languages How Do Energy, Time, and Memory Relate?》（各语言能效：能耗，时间和内存联系？）
