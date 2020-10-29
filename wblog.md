@@ -1,3 +1,42 @@
+Playwright：微软开源的用python编写的一款自动化的端到端测试工具。端到端测试使UI交互自动化，并可以验证应用程序的功能。Playwright使开发人员和测试人员可以用Python编写可靠的端到端测试。
+
+直接安装：
+
+    pip install playwright pytest-playwright 
+    python -m playwright install
+
+
+Django测试实例：
+
+    from django.contrib.staticfiles.testing import StaticLiveServerTestCase 
+    from playwright import sync_playwright 
+
+    class MyViewTests(StaticLiveServerTestCase): 
+        @classmethod 
+        def setUpClass(cls): 
+            super().setUpClass() 
+            cls.playwright = sync_playwright().start() 
+            cls.browser = cls.playwright.chromium.launch() 
+
+    @classmethod 
+    def tearDownClass(cls): 
+        cls.browser.close() 
+        cls.playwright.stop() 
+        super().tearDownClass() 
+
+    def test_login(self): 
+        page = self.browser.newPage() 
+        page.goto('%s%s' % (self.live_server_url, '/login/')) 
+        page.fill('#username', 'myuser') 
+        page.fill('#password', 'secret') 
+        page.click('text=Log in') 
+        assert page.url == '%s%s' % (self.live_server_url, '/profile/') 
+        page.close()
+
+
+支持通过Github Actions和其他CICD工具进行集成使用。
+
+============================================================================
 
 应RIAA的DMCA的请求Gitub封禁了youtube-dl仓库。
 
