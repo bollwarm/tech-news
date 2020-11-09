@@ -1,3 +1,11 @@
+由于版权youtube-dl Github源码仓库被封，但是其版本下载仍然正常。
+目前最新版本为 v2020.11.01.1 ，支持windows exe和源码tar包下载：
+youtube-dl.exe youtube-dl-2020.11.01.1.tar.gz
+
+youtube-dl 是一个油管视频下载的命令行工具。使用Python语言开发的，支持平台的工具。除了油管，也支持，其他视频网站的视频下载。
+
+
+=============================================
 
 安全论文：基于风险的身份验证（RBA）的可用性和安全性感知研究《A Study on Usability and Security Perceptions of Risk-based Authentication (RBA)》
 
