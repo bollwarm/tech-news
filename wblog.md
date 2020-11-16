@@ -1,3 +1,8 @@
+pythonstacks Python应用生态，基本上可以做任何事情：
+
+pythonstacks.com提供了项目中可以使用的最佳的python库列表，涵盖Web开发（Django，Web2py，Bottle，Flask，Pyramid），AI机器学习（Scikit-Learn，Tensorflow，PyTorch，Theano），游戏开发（PyGame，Pyglet，Cocos2d，Panda3D），科学与计算（Scipy，NumPy，Statsmodels），数据科学（Theano，Pandas，Scrapy，Scikit-Learn）等等各个方面。
+
+=============================================
 由于版权youtube-dl Github源码仓库被封，但是其版本下载仍然正常。
 目前最新版本为 v2020.11.01.1 ，支持windows exe和源码tar包下载：
 youtube-dl.exe youtube-dl-2020.11.01.1.tar.gz
