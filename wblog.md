@@ -1,3 +1,36 @@
+#MacBook M1# 上用AppleHypervisor.framework成功启动 Ubuntu
+
+MacBook Air M1上的macOS Big Sur。Apple包括一个允许基于ARM的VM的管理程序。KhaosT创建了一个开源应用程序(github.com/brucehoult/SimpleVM/)，可让ISO引导ARM系统。因此，由于Ubuntu有arm64版本的ISO，因此可以在Mac上启动Ubuntu并以本机方式运行它。
+
+请注意，目前还是纯文本的操作系统，目前尚未实现任何GPU代码。
+-所需的ISO文件：ubuntu-20.04.1-live-server-arm64.iso-
+除ISO之外，未实现使用磁盘映像。
+-SimpleVM.app只是概念证明。
+-可以通过SSH进入虚拟机。
+从keka.io中获取Keka.app，然后
+使用Keka.app
+将“vmlinuz”重命名为“vmlinuz.gz”，将ISO中的文件解压缩。
+三个文件：
+ubuntu-20.04.1-live-server-arm64.iso
+vmlinuz（未压缩）
+initrd
+启动SimpleVM.app，将这
+三个文件拖放到SimpleVM窗口中
+就可以看到ubuntu在串行启动中控制台窗口
+安装当然会失败，因为找不到合适的大容量存储
+在帮助菜单（ubuntu安装程序）中，找到SSH进入虚拟机的IP地址，登录名和密码
+在此文件中，必须添加第二个引导参数：
+
+github.com/brucehoult/SimpleVM/blob/master/SimpleVM/VirtualMachineViewModel.swift
+旧版本：
+79 bootloader.commandLine =“console = hvc0”
+新：
+79 bootloader.commandLine =“console = hvc0 root =/dev /vda”
+
+@jonmasters提供了一个新分支，还支持引导Fedora Linux：
+github.com/jonmasters/SimpleVM/tree/jcm-hacks
+
+==================
 
 智能视频门铃可以黑客直接进门：
 NCC Group的专业网络安全研究人员对亚马逊出售的高好评的智能门铃测试， 11款产品门铃均存在高的安全风险。
