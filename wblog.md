@@ -1,3 +1,17 @@
+CentOS死亡后续，又一个可选替代项目Lenix
+
+昨天，CloudLinux发布了一份新闻稿，宣布将每年投入超过100万美元用于创建和维护CentOS替代发行版。“CloudLinux赞助了Lenix项目，该项目将创建一个免费的，开源的，社区驱动的，1:1二进制兼容的RHEL 8（以及将来的发行版）。
+
+它将提供一种不间断的方式来将现有的CentOS服务器无痛转换。服务器将能够通过一个命令进行转换到Lenix，无需重新安装，也不需要重新启动。”
+
+ 
+
+根据Cloud Linux博客的说法，首个软件版本将于2021年第一季度交付。根据CloudLinux网站上进行的针对2,000位Linux爱好者的研究，大多数
+
+CentOS用户（62%）将等待另一个RHEL fork被释放，而不是迁移到Ubuntu，Debian，OpenSUSE或付费操作系统。
+
+=======================================================
+
 AI合作网络效果图解：可视化自然科学中的AI连接 （Network effect: visualizing AI connections in the natural sciences），使用Nature索引追踪的期刊中与AI相关论文的合作和各国优势。
   
 
