@@ -1,3 +1,18 @@
+
+亚马逊AWS宣布加紧打造真正开源的Elasticsearch
+
+上周，Elastic宣布修改Elasticsearch和Kibana的软件版权许可策略，用新的非“开源”的许可 Elastic License和 Server Side Public License取代Apache许可2.0版（ALv2）发布新版本。
+
+鉴于此，AWS日前宣布将创建并维护一个真正开源的ALv2许可的Elasticsearch和Kibana获得分支。
+
+AWS 表示选择派生并不是一时权益而做出的决定，但是当社区的需求发生分歧时，这是是正确的可持续的方法。开源软件的一个重要好处是，当发生这种情况时，如果开发人员有足够的动力，开发人员已经拥有了自己接管工作所需的所有权利。有许多成功案例，例如社区开发的Jenkins CI工具。
+
+在决定基于开源项目提供服务时，其已经有足够的技术能力和人员在必要时自行维护。AWS拥有多年使用这些代码库的经验，并为Elasticsearch和Apache Lucene（基于Elasticsearch的核心搜索库）做出上游代码贡献，仅2020年一年就贡献了230多个Lucene。
+
+AWS的Elasticsearch和Kibana分支将基于最新的ALv2许可代码库7.10版。在接下来的几周内将会发布新的GitHub存储库。两者都将包含在现有的Open Distro发行版中，以替代Elastic提供的ALv2版本。
+
+================================
+
 CentOS死亡后续，又一个可选替代项目Lenix
 
 昨天，CloudLinux发布了一份新闻稿，宣布将每年投入超过100万美元用于创建和维护CentOS替代发行版。“CloudLinux赞助了Lenix项目，该项目将创建一个免费的，开源的，社区驱动的，1:1二进制兼容的RHEL 8（以及将来的发行版）。
