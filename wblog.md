@@ -1,3 +1,11 @@
+best_paper_awards：自1996年以来计算机科学最佳论文索引
+
+包括AAAI ACL CHI CIKM CVPR FOCS FSE ICCV ICML ICSE IJCAI INFOCOM KDD MOBICOM NEURIPS NSDI OSDI PLDI PODS S＆P SIGCOMM SIGIR SIGMETRICS SIGMOD SODA SOSP STOC UIST VLDB WWW等会议收录的以及各组织论文统计   
+                                                     
+
+jeffhuang.com/best_paper_awards/
+
+===============================================
 
 亚马逊AWS宣布加紧打造真正开源的Elasticsearch
 
