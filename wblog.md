@@ -1,3 +1,15 @@
+Spyder是一个Python编写的科学环境自由软件，由科学家，工程师和数据分析师专门设计。集合综合开发工具的高级编辑，分析，调试和概要分析功能以及科学软件包的数据探索，交互式执行，深度检查和精美可视化功能的独特组合。
+
+Spyder支持多平台，可以用独立安装包在Windows和macOS下安装，在Linux可以直接通过发行版的包管理器安装，比如在Ubuntu下可以直接通过sudo apt install spyder。也能通过Anaconda包安装。
+
+Spyder最新版本为 Spyder 4.2，支持Binder在线云版本直接使用。
+
+Spyder支持多国语言，可以直接设置为简体中文。
+
+www.spyder-ide.org
+
+===================
+
 best_paper_awards：自1996年以来计算机科学最佳论文索引
 
 包括AAAI ACL CHI CIKM CVPR FOCS FSE ICCV ICML ICSE IJCAI INFOCOM KDD MOBICOM NEURIPS NSDI OSDI PLDI PODS S＆P SIGCOMM SIGIR SIGMETRICS SIGMOD SODA SOSP STOC UIST VLDB WWW等会议收录的以及各组织论文统计   
