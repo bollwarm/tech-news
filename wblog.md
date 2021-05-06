@@ -1,3 +1,27 @@
+combogrid 基于matplotlib，让网格中更加便捷的绘制优美的组合图。
+
+组合图对于比较两个不同的“ y”变量很有用。比如要了解股票的价格和交易量的日变化，对多只股票，希望在一张图中呈现。
+
+要求：
+
+python 3.71或以上
+pandas
+
+安装：
+
+pip install combogrid
+
+使用：
+
+import pandas as pd
+import combogrid
+df = pd.read_csv("sample.csv")
+df["date"] = pd.to_datetime(df["date"])
+plt = combogrid.plot(df, "date", "volume", "price", "color")
+plt.show()
+
+=====================
+
 谷歌正测试黑武器：在数百万浏览器客户端中测试其新广告定位技术
 
 今天，谷歌启动了联合学习队列原始试验（FLoC），测试广告推广的新技术。谷歌已经默默在数百万个Google Chrome实例启用了测试，这些客户端将开始根据行为将用户分类为不同组，然后与网络上的第三方跟踪器和广告商共享组标签。已经选择了一组随机用户进行试用，他们目前只能通过禁用第三方Cookie来选择退出。
