@@ -1,3 +1,13 @@
+
+兼容Mysql的国产分布式数据库Tidb，引擎TiKV,基于Golang和Rust开发，目前国产数据库占有量第一！今天尝试了下Tidb 5.0版本，已经完全可以在低配置（1cpu，2G内存，CentOS）下运行全套（1 PD+1 TiDB+1 TiKV+1 TiFlash +monitor )了：
+
+tiup playground v5.0.1 --db 1 --pd 1 --kv 1 --monitor
+
+注：之前曾经尝试4.x，太卡没有成功启动。
+
+
+====================================
+
 combogrid 基于matplotlib，让网格中更加便捷的绘制优美的组合图。
 
 组合图对于比较两个不同的“ y”变量很有用。比如要了解股票的价格和交易量的日变化，对多只股票，希望在一张图中呈现。
