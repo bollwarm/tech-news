@@ -1,4 +1,24 @@
 
+说话写代码成了现实——VSCode语音助手
+
+VSCode语音助手是一个Visual Studio Code 扩展。 该扩展允许您通过语音将代码片段放入代码中。还可以通过语音执行任何 Visual Studio 命令。 
+
+扩展程序支持任何语言，相关配置可以手动配置扩展(voice-assistant.json) 。
+
+    多窗口支持；
+
+    每个项目的不同语音命令；
+
+    简单的语音命令重新加载；
+
+    支持多语言（TypeScript、JavaScript、HTML、CSS、PHP、C#...）；
+
+    VSCode命令执行。
+
+仓库： github/b4rtaz/voice-assistant
+
+=======================
+
 兼容Mysql的国产分布式数据库Tidb，引擎TiKV,基于Golang和Rust开发，目前国产数据库占有量第一！今天尝试了下Tidb 5.0版本，已经完全可以在低配置（1cpu，2G内存，CentOS）下运行全套（1 PD+1 TiDB+1 TiKV+1 TiFlash +monitor )了：
 
 tiup playground v5.0.1 --db 1 --pd 1 --kv 1 --monitor
