@@ -1,4 +1,16 @@
 
+网络安全电子书：
+
+《Computer Security and the Internet: Tools and Jewels，计算机安全和互联网：工具和珠玑》
+
+作者：Paul C. van Oorschot  2020 年，斯普林格   前提+365页
+
+ISBN：978-3-030-33648-6，978-3-030-33649-3（电子书） 
+
+people.scs.carleton.ca/~paulv/toolsjewels.html
+
+======================================
+
 说话写代码成了现实——VSCode语音助手
 
 VSCode语音助手是一个Visual Studio Code 扩展。 该扩展允许您通过语音将代码片段放入代码中。还可以通过语音执行任何 Visual Studio 命令。 
