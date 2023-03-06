@@ -1,4 +1,27 @@
+MailCrab：一款使用Rust编写的开源电子邮件测试服务器。你可能每天烦恼的使用MailCatcher 或 MailHog，那么这个应用就是解决这个问题的小巧方便的项目。
 
+特点 ：小、快、好。
+
+有一个 Web 界面允许查看所有收到的电子邮件。 默认情况下，会看到格式化的电子邮件，但原始邮件内容以及标题和文件附件也可以在同一界面中查看。 MailCrab 支持64为平台（amd64和arm64）docker运行。
+其docker镜像非常简练，只有7.7BM（小）。它与所选服务器保持开放的 websocket 连接，这意味着几乎没有延迟（快）。
+
+提供一个简单的API接口来检索消息 ，特别适合自动化测试:
+
+/api/messages 获取所有邮件元数据
+/api/message/[id]  获取给出ID的邮件内容
+...
+
+另外，该程序前后端均完全使用Rust开发，Axum+Yew框架；
+
+一条命令就可以尝鲜：
+
+docker run --rm -p 1080:1080 -p 1025:1025 marlonb/mailcrab:latest
+
+然后用打开浏览器 输入localhost:1080 即可访问web界面
+
+仓库地 github/tweedegolf/mailcrab
+
+===========================
 网络安全电子书：
 
 《Computer Security and the Internet: Tools and Jewels，计算机安全和互联网：工具和珠玑》
